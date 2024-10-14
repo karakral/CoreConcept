@@ -1,0 +1,2 @@
+public class TestSecondCommitCheryPic1 {
+}
